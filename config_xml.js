@@ -2,7 +2,7 @@ var TSC = TSC || {};
 
 TSC.embedded_config_xml = '<x:xmpmeta tsc:version="2.0.1" xmlns:x="adobe:ns:meta/" xmlns:tsc="http://www.techsmith.com/xmp/tsc/">\
    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/" xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:tscDM="http://www.techsmith.com/xmp/tscDM/" xmlns:tscIQ="http://www.techsmith.com/xmp/tscIQ/" xmlns:tscHS="http://www.techsmith.com/xmp/tscHS/" xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#" xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#" xmlns:exif="http://ns.adobe.com/exif/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/">\
-      <rdf:Description dc:date="2021-08-28 08:39:25 SA" dc:source="Camtasia,20.0.12,enu" dc:title="review THTH1 b01" tscDM:firstFrame="review_THTH1_b01_First_Frame.png" tscDM:originId="F3BD6AFD-1D59-46D3-BF85-C7A625D921C8" tscDM:project="Untitled Project">\
+      <rdf:Description dc:date="2021-08-28 08:39:25 SA" dc:source="Camtasia,20.0.12,enu" dc:title="review THTH1 b01" tscDM:firstFrame="https://raw.githubusercontent.com/lehoangphuc747/Anki-Korean/main/review_THTH1_b01_First_Frame.png" tscDM:originId="F3BD6AFD-1D59-46D3-BF85-C7A625D921C8" tscDM:project="Untitled Project">\
          <xmpDM:duration xmpDM:scale="1/1000" xmpDM:value="15033"/>\
          <xmpDM:videoFrameSize stDim:unit="pixel" stDim:h="984" stDim:w="1278"/>\
          <tsc:langName>\
@@ -29,7 +29,7 @@ TSC.embedded_config_xml = '<x:xmpmeta tsc:version="2.0.1" xmlns:x="adobe:ns:meta
             <rdf:Description>\
                <tscDM:files>\
                   <rdf:Seq>\
-                     <rdf:li xmpDM:name="0" xmpDM:value="review THTH1 b01.mp4"/><rdf:li xmpDM:name="1" xmpDM:value="review_THTH1_b01_First_Frame.png"/></rdf:Seq>\
+                     <rdf:li xmpDM:name="0" xmpDM:value="review THTH1 b01.mp4"/><rdf:li xmpDM:name="1" xmpDM:value="https://raw.githubusercontent.com/lehoangphuc747/Anki-Korean/main/review_THTH1_b01_First_Frame.png"/></rdf:Seq>\
                </tscDM:files>\
             </rdf:Description>\
          </tscDM:contentList>\
