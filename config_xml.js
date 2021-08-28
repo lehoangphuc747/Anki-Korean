@@ -29,7 +29,7 @@ TSC.embedded_config_xml = '<x:xmpmeta tsc:version="2.0.1" xmlns:x="adobe:ns:meta
             <rdf:Description>\
                <tscDM:files>\
                   <rdf:Seq>\
-                     <rdf:li xmpDM:name="0" xmpDM:value="review THTH1 b01.mp4"/><rdf:li xmpDM:name="1" xmpDM:value="https://raw.githubusercontent.com/lehoangphuc747/Anki-Korean/main/review_THTH1_b01_First_Frame.png"/></rdf:Seq>\
+                     <rdf:li xmpDM:name="0" xmpDM:value="https://raw.githubusercontent.com/lehoangphuc747/Anki-Korean/main/review%20THTH1%20b01.mp4"/><rdf:li xmpDM:name="1" xmpDM:value="https://raw.githubusercontent.com/lehoangphuc747/Anki-Korean/main/review_THTH1_b01_First_Frame.png"/></rdf:Seq>\
                </tscDM:files>\
             </rdf:Description>\
          </tscDM:contentList>\
